@@ -59,7 +59,7 @@ Choose an option:
 
 ## Author
 
-This repository was developed as part of the course **Aprendizaje Automático** by **Julio Lara**, from the **Licenciatura en Ingeniería de Sistemas y Computación** career at the **Universidad Tecnológica de Panamá (UTP)**.
+This repository was developed by **Julio Lara**, from the **Licenciatura en Ingeniería de Sistemas y Computación** career at the **Universidad Tecnológica de Panamá (UTP)**.
 
 ---
 
